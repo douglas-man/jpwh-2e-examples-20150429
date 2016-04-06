@@ -174,7 +174,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <modules>
-                <!--module>shared</module-->
+                <module>shared</module>
                 <module>environment</module>
                 <module>helloworld</module>
                 <!--module>model</module>
